@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Many things get better as you talk about them. Racism isn't one of them. Every time we talk about race, we breathe life into the idea that it matters. another breath into it \_this even a question on this form. I'm reminded of Trevor Noah's hilarious account\_of how he had to choose his race when opening his first U.S. bank account. Coming from post-apartheid\_South Africa, where questions about race rarely appear on forms, Noah, who has a black mother and a white father, found himself debating with himself about whether to choose black or white."
-datePublished: '2016-03-11T22:41:10.051Z'
-dateModified: '2016-03-11T22:40:51.308Z'
+description: "Most things get better as you talk about them. Racism isn't one of them. Every time we talk about race, we breathe life into the idea that it matters. another breath into it \_this even a question on this form. I'm reminded of Trevor Noah's hilarious account\_of how he had to choose his race when opening his first U.S. bank account. Coming from post-apartheid\_South Africa, where questions about race rarely appear on forms, Noah, who has a black mother and a white father, found himself debating with himself about whether to choose black or white."
+datePublished: '2016-03-11T22:42:25.746Z'
+dateModified: '2016-03-11T22:41:13.602Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-many-things-get-better-as-you-talk-about-them-racism-isnt.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-many-things-get-better-as-you-talk-about-them-racism-isnt.md
-published: true
 url: many-things-get-better-as-you-talk-about-them-racism-isnt/index.html
 _type: Article
 
