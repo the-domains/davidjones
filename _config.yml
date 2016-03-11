@@ -1,7 +1,7 @@
 name: davidjones
 favicon: null
-layout_spectrum: 0.45034190989099443
-typography_spectrum: 0.6837060807738453
+layout_spectrum: 0.75468
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.24501624517142773
-  lightness: 0.725175348110497
-  saturation: 0.9537214115262032
-  rhythmicContrast: 0.7727680418174714
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
